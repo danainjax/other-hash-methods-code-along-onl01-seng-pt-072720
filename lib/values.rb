@@ -9,5 +9,8 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  get_the_values.keys
+  dairy.keys
+  vegetable.keys
+  meat.keys
+  grains.keys
 end
